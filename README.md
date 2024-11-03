@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![kunaljubce's GitHub | Stats](https://stats.quira.sh/kunaljubce/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kunaljubce)
 -->
 
 <div id="header" align="center">
@@ -76,4 +78,16 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions"  alt="Github Actions" width="40" height="40"/>&nbsp;
 </div>
 
-[![kunaljubce's GitHub | Stats](https://stats.quira.sh/kunaljubce/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kunaljubce)
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaljubce&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljubce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
