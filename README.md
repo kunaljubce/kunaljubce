@@ -88,6 +88,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
+<!-- 
 ### :writing_hand: Blog Posts :
+
+Will Come back this later!
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
