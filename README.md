@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![kunaljubce's GitHub | Stats](https://stats.quira.sh/kunaljubce/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=kunaljubce)
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M1eGo3ZDhxdHBqcnNrMWJ6cmtqaDRqY2FmdnQ3N2M1bXN2MXBjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width="100"/>
+</div>
