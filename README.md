@@ -59,7 +59,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-kunaljubce-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunaljubce/)
 
-- :dollar: If you like my work and want to support me, consider buying me a coffee: [https://img.shields.io/badge/-buymeacoffee-orange?style=flat&logo=Buymeacoffee&logoColor=white](buymeacoffee.com/kunaljubce).
+- :dollar: If you like my work and want to support me, consider buying me a coffee: [![Buymeacoffee Badge](https://img.shields.io/badge/-buymeacoffee-orange?style=flat&logo=Buymeacoffee&logoColor=white)](buymeacoffee.com/kunaljubce)
 
 ---
 
