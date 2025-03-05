@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <a href="https://x.com/kunaljubce">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.buymeacoffee.com/kunaljubce" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="170">
+  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=kunaljubce&style=flat-square&color=blue" alt=""/>
@@ -55,6 +58,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I solve digging into Computer Science fundamentals, contributing to OSS and read tech articles.
 
 - :mailbox: Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-kunaljubce-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunaljubce/)
+
+- :dollar: If you like my work and want to support me, consider buying me a coffee: [https://img.shields.io/badge/-buymeacoffee-orange?style=flat&logo=Buymeacoffee&logoColor=white](buymeacoffee.com/kunaljubce).
 
 ---
 
