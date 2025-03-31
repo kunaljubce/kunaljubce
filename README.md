@@ -91,6 +91,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljubce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://ossrank.com/widget/788466)](https://ossrank.com/c/788466-kunal-bhattacharya)
+
 ---
 
 <!-- 
