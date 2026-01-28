@@ -97,11 +97,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- ![Kunal's GitHub stats all](https://github-readme-stats.vercel.app/api?username=kunaljubce&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaljubce&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaljubce&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljubce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![](https://ossrank.com/widget/788466)](https://ossrank.com/c/788466-kunal-bhattacharya)
+<!-- [![](https://ossrank.com/widget/788466)](https://ossrank.com/c/788466-kunal-bhattacharya) -->
 
 ---
 
