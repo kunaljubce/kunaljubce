@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Platform Engineer at PepsiCo and contributing to developing and maintaining the digital platform that powers the multi-billion dollar Digital Commerce business of PepsiCo.
+**About me**
+
+- :telescope: I’m working as a Senior Data Platforms Engineer at PepsiCo and contributing to developing and maintaining the digital platform that powers the multi-billion dollar Digital Commerce business of PepsiCo.
 
 - :seedling: Exploring Technical Content Writing at Substack. Show me some love at: [![Substack Badge](https://img.shields.io/badge/-kunaljubce-orange?style=flat&logo=Substack&logoColor=white)](https://kunaljubce.substack.com)
 
@@ -86,6 +88,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
+
+[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaljubce)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaljubce&theme=dark&background=000000)](https://git.io/streak-stats)
 
