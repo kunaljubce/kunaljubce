@@ -107,7 +107,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ---
-### :pin: Repos I actively contribute to
+### :pushpin: Repos I actively contribute to
 
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
