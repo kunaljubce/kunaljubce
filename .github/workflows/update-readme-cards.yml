@@ -42,6 +42,14 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update Github Activity in README"
+          MAX_LINES: 10
+          # FILTER_EVENTS: PullRequestEvent
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
