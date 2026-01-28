@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "* * * * *" # Runs once daily at midnight
+    - cron: "0 1 * * *" # Runs once daily at midnight
   # push:
   #   branches:
   #     - main

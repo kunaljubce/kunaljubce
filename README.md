@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
@@ -65,7 +65,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -87,7 +87,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :zap: Recent Activity
+### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#4767](https://github.com/anuraghazra/github-readme-stats/pull/4767) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -99,13 +99,18 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
+<!-- Centered row with two cards -->
+<div align="center">
+  <img src="./profile/stats.svg" width="350" height="350"/>
+  <img src="./profile/top-langs.svg" width="350" height="350"/>
+</div>
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+---
+### :pin: Repos I actively contribute to
 
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 <!-- ![Kunal's GitHub stats all](https://github-readme-stats.vercel.app/api?username=kunaljubce&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent) -->
 
