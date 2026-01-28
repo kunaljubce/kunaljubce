@@ -89,9 +89,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunaljubce)](https://github.com/anuraghazra/github-readme-stats)
-
-![Kunal's GitHub stats all](https://github-readme-stats.vercel.app/api?username=kunaljubce&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+![Kunal's GitHub stats all](https://github-readme-stats.vercel.app/api?username=kunaljubce&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kunaljubce&theme=dark&background=000000)](https://git.io/streak-stats)
 
