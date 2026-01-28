@@ -90,7 +90,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!-- ![Kunal's GitHub stats all](https://github-readme-stats.vercel.app/api?username=kunaljubce&show=reviews,discussions_started,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent) -->
 
