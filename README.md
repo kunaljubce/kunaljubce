@@ -90,10 +90,10 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63658](https://github.com/apache/airflow/pull/63658) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#63658](https://github.com/apache/airflow/pull/63658) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#54609](https://github.com/apache/airflow/issues/54609#issuecomment-4036712585) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#62758](https://github.com/apache/airflow/pull/62758) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#67643](https://github.com/apache/airflow/issues/67643#issuecomment-4563849743) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Labeled issue [#67643](https://github.com/apache/airflow/issues/67643) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled issue [#67643](https://github.com/apache/airflow/issues/67643) in [apache/airflow](https://github.com/apache/airflow)
+4. ❗ Opened issue [#67643](https://github.com/apache/airflow/issues/67643) in [apache/airflow](https://github.com/apache/airflow)
 5. 🗣 Commented on [#54609](https://github.com/apache/airflow/issues/54609#issuecomment-4028747692) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
