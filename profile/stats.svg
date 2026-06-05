@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kunal Bhattacharya's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 1712, Total PRs: 542, Merged PRs Percentage: 81.73, Total PRs Reviewed: 110, Total Issues: 32, Total Discussions Started: 4, Total Discussions Answered: 0, Contributed to (last year): 19</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 1713, Total PRs: 543, Merged PRs Percentage: 81.77, Total PRs Reviewed: 111, Total Issues: 32, Total Discussions Started: 4, Total Discussions Answered: 0, Contributed to (last year): 19</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 111.51826040938424;
+        stroke-dashoffset: 111.50892917847021;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >542</text>
+      >543</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >81.73 %</text>
+      >81.77 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >110</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
