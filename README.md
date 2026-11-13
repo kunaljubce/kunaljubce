@@ -90,7 +90,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#300](https://github.com/apache/ossie/pull/300) in [apache/ossie](https://github.com/apache/ossie)
+1. 💪 Opened PR [#1](https://github.com/kunaljubce/kickstart/pull/1) in [kunaljubce/kickstart](https://github.com/kunaljubce/kickstart)
 2. 🗣 Commented on [#67896](https://github.com/apache/airflow/pull/67896#issuecomment-4912782639) in [apache/airflow](https://github.com/apache/airflow)
 3. 🗣 Commented on [#67896](https://github.com/apache/airflow/pull/67896#issuecomment-4637253724) in [apache/airflow](https://github.com/apache/airflow)
 4. 🗣 Commented on [#67896](https://github.com/apache/airflow/pull/67896#issuecomment-4629352178) in [apache/airflow](https://github.com/apache/airflow)
